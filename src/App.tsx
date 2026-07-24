@@ -47,7 +47,7 @@ const MainDashboard: React.FC = () => {
       </main>
 
       <footer className="py-6 border-t border-slate-850/60 text-center text-xs text-slate-500">
-        <p>API Fusion Ideathon Platform · Powered by INFORMATIKA × IEEE CS CUSAT SB</p>
+        <p>API Fusion Ideathon Platform · Powered by INFORMATYKA × IEEE CS CUSAT SB</p>
       </footer>
     </div>
   );

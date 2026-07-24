@@ -25,7 +25,7 @@ export const Header: React.FC = () => {
               )}
             </div>
             <p className="text-[10px] text-slate-400 font-mono tracking-wider uppercase">
-              INFORMATIKA × IEEE CS CUSAT SB
+              INFORMATYKA × IEEE CS CUSAT SB
             </p>
           </div>
         </div>
